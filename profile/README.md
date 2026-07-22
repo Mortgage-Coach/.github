@@ -1,6 +1,6 @@
 # Mortgage Coach - Visual Mortgage Advice and Total Cost Analysis Platform
 
-![Mortgage Coach loan comparison dashboard with borrower presentation]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtheYX6CtMALZbvzW5m4g25vw0T270fvZVuUZPOlyut2h5Ab1-eU6wYcE&s=10)
+![Mortgage Coach loan comparison dashboard with borrower presentation]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJ8tED3JjrjMLiJeQzoU9xjsEprqlLkdIFSO8rV5EfNVX1mBeKhqtESM&s=10)
 
 ## Visual Loan Guidance with Mortgage Coach
 
